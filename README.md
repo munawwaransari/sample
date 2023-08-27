@@ -1,2 +1,2 @@
 # sample
-A sample repository
+A sample repository in the main branch
